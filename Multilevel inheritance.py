@@ -38,4 +38,4 @@ studl.getMarks (m)
 studl.displaystudent()
 studl.displayMarks()
 studl.calculateGrade() 
-        
+    
